@@ -1,0 +1,43 @@
+next learn:
+Convolutional Neural Networks for Image Processing - deep learning
+Advanced Deep Learning with Keras in Python - deep learning
+
+Introduction to TensorFlow in Python - supervisioned learning
+Machine Learning for Finance in Python - supervisioned learning
+Predicting Customer Churn in Python - supervisioned learning
+Machine Learning with Tree-Based Models in Python - supervisioned learning
+Machine Learning for Time Series Data in Python - supervisioned learning
+Model Validation in Python - supervisioned learning
+
+Fraud Detection in Python - unsupervisioned  and supervisioned learning
+Designing Machine Learning Workflows in Python - unsupervisioned  and supervisioned learning
+
+Writing Efficient Python Code - Python
+
+Introduction to Data Preprocessing - data manipulation
+
+Intermediate SQL
+SQL for Exploratory Data Analysis - SQL
+
+introduction to shell for data science - shell
+conda essentials - shell
+conda for building and distributing packages - shell
+
+Web Scraping in Python - web
+
+
+and do the project:
+Give Life: Predict Blood Donations - Preprocessing for Machine Learning in Python
+
+
+next projects:
+Predicting Credit Card Approvals - supervisioned learning
+Classify Song Genres from Audio Data - supervisioned learning
+ASL Recognition with Deep Learning - deep learning
+The Android App Market on Google Play - machine learning
+
+
+done projects: 
+naive bees deep learning with images - deep learning - done
+Reducing Traffic Mortality in the USA - unsupervisioned learning
+Find Movie Similarity from Plot Summaries - unsupervisioned learning
