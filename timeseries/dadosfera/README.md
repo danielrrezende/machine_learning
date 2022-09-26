@@ -9,7 +9,7 @@ Foram gerados e desenvolvidos no Microsoft Azure Databricks
 2) Qual linguagem usada?
 
 Foi usada:
-  Pyspark na Coleta, Limpeza e Manipulação dos dados (notebook 1_coleta_limpa_dados)
+  Pyspark na Coleta, Limpeza e Manipulação dos dados (notebook 1_coleta_limpa_dados)\
   Python na exploração de dados na respostas das perguntas (2_explora_dados, 3_perguntas, 4_bonus)
 
 3) Organização dos notebooks
