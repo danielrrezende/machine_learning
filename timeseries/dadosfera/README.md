@@ -14,9 +14,9 @@ Foi usada:\
 
 3) Organização dos notebooks
 
-1_coleta_limpa_dados - Coleta, Limpeza e Manipulação dos dados
-2_explora_dados - Exploração dos dados
-3_perguntas - Respostas das perguntas 'Minimum requirements'
+1_coleta_limpa_dados - Coleta, Limpeza e Manipulação dos dados\
+2_explora_dados - Exploração dos dados\
+3_perguntas - Respostas das perguntas 'Minimum requirements'\
 4_bonus - Analise dos dados da time series E criação do modelo de time series
 
 Sobre o modelo de time series
