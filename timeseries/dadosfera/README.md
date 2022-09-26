@@ -24,4 +24,4 @@ Sobre o modelo de time series
 **Algoritmo usado** - LinearRegression
 
 
-Observação: É possivel rodar um notebook separado, pois estão linkados entre si
+**Observação**: É possivel rodar um notebook separado, pois estão linkados entre si
