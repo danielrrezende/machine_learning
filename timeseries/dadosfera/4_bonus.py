@@ -249,6 +249,8 @@ display(plot_periodogram(temperature.MeanSeaTemperature))
 # MAGIC Usar esta função nos ajudará a evitar alguns casos de falha complicados que podem surgir com séries temporais e regressão linear. O argumento de ordem refere-se à ordem polinomial: 1 para linear, 2 para quadrático, 3 para cúbico e assim por diante.
 # MAGIC 
 # MAGIC DeterministicProcess, usado para criar recursos de tendência. Para usar dois períodos sazonais (semanal e anual), precisaremos instanciar um deles como um "termo adicional":
+# MAGIC 
+# MAGIC Um processo determinístico, a propósito, é um termo técnico para uma série temporal que não é aleatória ou completamente determinada, como as séries const e tendência. Os recursos derivados do índice de tempo geralmente serão determinísticos.
 
 # COMMAND ----------
 
