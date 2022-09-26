@@ -119,7 +119,7 @@ fig = px.density_mapbox(biggest_wtr_lvl,
                         lat=biggest_wtr_lvl.latitude, 
                         lon=biggest_wtr_lvl.longitude, 
                         z=biggest_wtr_lvl.Water_Level_LAT, 
-                        radius=15, 
+                        radius=20, 
                         center=dict(lat=55.3717, lon=-7.3344), 
                         zoom=5, 
                         mapbox_style="stamen-terrain")
@@ -161,4 +161,18 @@ display(sns.heatmap(corr, xticklabels = corr.columns, yticklabels = corr.columns
 
 # COMMAND ----------
 
-# escrever mais coisas
+# MAGIC %md
+# MAGIC 
+# MAGIC ### Resposta:
+# MAGIC 
+# MAGIC **Wave Lenghts (Hmax)** com **Sea Temperature** possuem correlação negativa de -0,29 indica que uma leve influencia entre as features (valor 0,29, que vai de 0 a 1), e pelo fato de ser negativa, indica que uma feature pode ter influencia contraria sobre a outra.
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ### It is possible to predict with accuracy the Wave Lenght, based on the Sea Temperature and the Bouy location?
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC Com relação a **latitude** e **longitude**, possuem correlação em modulo de -0,033 e 0,08 respectivamente, bem proximas de 0, o que indica que não se sabe exatamente o que ocorre com uma feature quando a outra varia e portanto, pode indicar uma potencial complementariedade entre si, sendo potenciais candidatas à combinação de features

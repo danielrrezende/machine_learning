@@ -119,7 +119,7 @@ df_tides.count()
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ##### Estações na base de dados
+# MAGIC #### Estações na base de dados
 
 # COMMAND ----------
 
@@ -187,7 +187,7 @@ df_waves.count()
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ##### Estações na base de dados
+# MAGIC #### Estações na base de dados
 # MAGIC 
 # MAGIC Observaçao: estacoes AMETS Berth B Wave Buoy e Westwave Wave Buoy estava com sua base de dados vazia
 
