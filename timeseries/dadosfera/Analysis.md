@@ -10,7 +10,9 @@ Estes foram gerados e desenvolvidos no Microsoft Azure Databricks, ferramenta qu
 
 ## 3 - Linguagem usada no desafio
 
-Para tal, Foi usada **Pyspark** na Coleta, Limpeza e Manipulação dos dados (notebook 1_coleta_limpa_dados) e  **Python** na exploração de dados na respostas das perguntas (2_explora_dados, 3_perguntas, 4_bonus)
+Para tal, Foi usada:\
+**Pyspark** na Coleta, Limpeza e Manipulação dos dados (notebook 1_coleta_limpa_dados) e \  
+**Python** na exploração de dados na respostas das perguntas (2_explora_dados, 3_perguntas, 4_bonus)
 
 ## 4 - Distribuição das tarefas em notebooks
 
